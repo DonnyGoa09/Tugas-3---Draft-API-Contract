@@ -136,6 +136,6 @@ Laravel.
 
 ## 8. Deklarasi Penggunaan AI
 
-Saya memakai AI untuk membantu merapikan format dokumentasi dan menyusun contoh
-contract. Saya tetap memeriksa field, endpoint, status code, JSON, dan bukti
-Postman sebelum dikumpulkan.
+Saya memakai AI untuk membantu dalam pengerjaan praktik dan tugas ini. AI
+membantu saya memahami cara pengerjaan, menyusun dokumentasi, dan merapikan
+penulisan yang saya buat.
