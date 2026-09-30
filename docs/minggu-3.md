@@ -14,12 +14,7 @@ Perubahan yang saya kerjakan:
 - membuat daftar endpoint CRUD;
 - membuat contoh JSON request dan response;
 - menambahkan response example `200`, `201`, `404`, dan `422` di Postman;
-- memperbarui collection `Minggu 3 — API Contract`;
-- menyimpan API contract lengkap di [`api-contract.md`](api-contract.md).
-
-Collection Postman yang digunakan:
-
-[`week-03-api-contract.postman_collection.json`](postman/week-03-api-contract.postman_collection.json)
+- memperbarui collection `Minggu 3 — API Contract` di Postman.
 
 ![Collection Postman Minggu 3](images/week-03/postman-collection-overview.png)
 
@@ -135,7 +130,6 @@ Laravel.
 
 - Materi 3 - API Contract dan Resource Modelling.
 - Praktikum 3 - Merancang API Contract.
-- [API contract project](api-contract.md).
 - [Laravel 13.x - Eloquent API Resources](https://laravel.com/docs/13.x/eloquent-resources).
 - [Laravel 13.x - Controllers](https://laravel.com/docs/13.x/controllers).
 - [Postman - Create examples of request responses](https://learning.postman.com/docs/use/send-requests/response-data/examples).
